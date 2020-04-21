@@ -1,6 +1,6 @@
 ### [Downloads page](https://github.com/manueljlz/gcphone)
 
-<h2 align="center">Teléfono para FiveM v3</h2>
+<h2 align="center">gc phone FiveM v3</h2>
 
 ![Image of gcphone1](https://imgur.com/a2ltY4l.png)
 ![Image of gcphone2](https://imgur.com/HsRSwRk.png)
@@ -13,23 +13,22 @@
 
 ## Functions 
 
-  - Lista de contactos
-  - Enviar sms
-  - Llamadas hasta 32-slots
-  - Llamadas anónimas
-  - Aplicación del banco con transferencias bancarias
-  - Apicación Reddit
-  - Aplicación Bolsa
-  - Aplicación Notas
-  - Selección de tonos de llamada
-  - Fixeado bug guión teclado numérico
-  - Añadidas diferentes fundas para el iphone 11
-  - Añadidas nuevas imagenes de fondo
-  - Renovada la estética completa del gcphone así como sus dimensiones
+  - Contact list
+  - Send sms
+  - Anonymous calls
+  - Bank application with bank transfers
+  - Reddit Apication
+  - Stock Market App
+  - Notes app
+  - Selection of ringtones
+  - Fixed bug script numeric keypad
+  - Added different cases for iphone 11
+  - Added new background images
+  - Renewed the complete aesthetics of the gcphone as well as its dimensions
 
 ## Credits
 
-  - ElBichop (Creador) @GuidesJaen
+  - ElBichop (Creator) @GuidesJaen
   - Mureno (Colaborador) @murenooo
   - Paty Blue (Diseñadora gráfica) @psasfer
   - Sanlaris (Colaboradora) @Sanlaris_game
