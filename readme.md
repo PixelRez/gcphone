@@ -1,5 +1,8 @@
 ### [Downloads page](https://github.com/manueljlz/gcphone)
 
+
+THIS IS A FORKED RESOURCE FROM MANUELJLZ I DO NOT TAKE CREDIT FOR IT 
+
 <h2 align="center">gc phone FiveM v3</h2>
 
 ![Image of gcphone1](https://imgur.com/a2ltY4l.png)
